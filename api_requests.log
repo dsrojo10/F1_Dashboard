@@ -1,0 +1,192 @@
+[2025-02-27 14:26:57] User: 127.0.0.1 - Endpoint: sessions - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:27:03] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:27:07] User: 127.0.0.1 - Endpoint: lap_times - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:27:12] User: 127.0.0.1 - Endpoint: lap_times - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:27:15] User: 127.0.0.1 - Endpoint: driver_list - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:27:27] User: 127.0.0.1 - Endpoint: driver_list - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:27:43] User: 127.0.0.1 - Endpoint: driver_list - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:27:57] User: 127.0.0.1 - Endpoint: driver_list - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:28:13] User: 127.0.0.1 - Endpoint: driver_list - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:28:30] User: 127.0.0.1 - Endpoint: driver_list - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:28:30] User: 127.0.0.1 - Endpoint: lap_times - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:28:38] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:28:47] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:29:02] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:29:17] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:26:11
+--------------------------------------------------------------
+[2025-02-27 14:29:32] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:29:47] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:30:34] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 503
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:30:36] User: 127.0.0.1 - Endpoint: sessions - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:30:40] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:30:56] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:31:09] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:31:24] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:31:40] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:31:54] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:32:09] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:32:24] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:32:39] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:32:54] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:33:55] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:34:51] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:35:52] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:36:51] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:28:03
+--------------------------------------------------------------
+[2025-02-27 14:37:52] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:37:52
+--------------------------------------------------------------
+[2025-02-27 14:38:52] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:38:52
+--------------------------------------------------------------
+[2025-02-27 14:39:52] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:39:52
+--------------------------------------------------------------
+[2025-02-27 14:40:51] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:40:51
+--------------------------------------------------------------
+[2025-02-27 14:41:51] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:41:51
+--------------------------------------------------------------
+[2025-02-27 14:42:53] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:42:53
+--------------------------------------------------------------
+[2025-02-27 14:43:35] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:43:35
+--------------------------------------------------------------
+[2025-02-27 14:44:06] User: 127.0.0.1 - Endpoint: sessions - Params:  - Status: 200
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:44:06
+--------------------------------------------------------------
+[2025-02-27 14:44:11] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:44:11
+--------------------------------------------------------------
+[2025-02-27 14:44:33] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:44:33
+--------------------------------------------------------------
+[2025-02-27 14:44:41] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:44:41
+--------------------------------------------------------------
+[2025-02-27 14:45:05] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:45:05
+--------------------------------------------------------------
+[2025-02-27 14:45:12] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:45:12
+--------------------------------------------------------------
+[2025-02-27 14:45:31] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:45:31
+--------------------------------------------------------------
+[2025-02-27 14:45:44] User: 127.0.0.1 - Endpoint: car_data - Params:  - Status: 500
+Current User: dsrojo10
+Current UTC Time: 2025-02-27 13:45:44
+--------------------------------------------------------------
